@@ -1,0 +1,17 @@
+
+body{
+background: url('/static/images/home.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+.container2{
+	margin-top: 7%;
+}
+
+
+
+
+
+

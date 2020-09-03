@@ -1,0 +1,57 @@
+body{
+	background: url('/static/images/home.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+
+
+.container2{
+	padding: 1.2rem;
+	color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	min-width: 350px;
+	margin: auto;
+	background: #232526;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.container2 label{
+	padding-right: 10px;
+	font-weight: 600;
+	font-size: 1.3rem;
+}
+
+h2{
+	padding: 30px;
+}
+
+
+.container-body{
+	margin-top: 8%;
+}
+
+
+.button1{
+	margin-top: 50px;
+	width: 100%;
+	padding: 10px 0;
+	border-radius: 5px; 
+	border: none;
+	background: #1c87c9; 
+	font-size: 14px;
+	font-weight: 600;
+	color: #fff;
+}
+
+input{
+	max-width: 85%;
+}
+
+
+
+
+

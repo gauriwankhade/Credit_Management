@@ -1,0 +1,64 @@
+
+body{
+	background:url('/static/images/home.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+
+
+.container{
+	margin-top: 7%;	
+}
+
+
+.transfer{
+	border: 3px solid white;
+	border-radius: 15px;
+	padding: 50px;
+	background-color: white;
+	color: black;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 2px 0 rgba(0, 0, 0, 0.19);
+	min-width: 300px;
+	position: relative;	
+	align-content: center;
+	max-width: 350px;
+	margin: auto;
+	
+}
+
+
+.button1{
+	margin-top: 50px;
+	width: 100%;
+	padding: 10px 0;
+	border-radius: 5px; 
+	border: none;
+	background: #1c87c9; 
+	font-size: 14px;
+	font-weight: 600;
+	color: #fff;
+}
+
+
+
+i{
+
+	color: grey;
+	margin-bottom: 30px;
+	margin-left: 40%;
+
+}
+
+.sender{
+	width: 150px;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,.075);
+
+}
+
+
+
+
+

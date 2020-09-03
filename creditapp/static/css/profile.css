@@ -1,0 +1,59 @@
+body{
+	background:url('/static/images/home.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+
+
+.container{
+	margin-top: 7%;
+}
+
+.profile{
+	padding: 10px;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+	min-width: 300px;
+	border-radius: 10px;	
+
+}
+
+.container3{
+	margin: auto;
+	background: #4CA1AF;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #C4E0E5, #4CA1AF);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #C4E0E5, #4CA1AF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.button1{
+	color: white;
+	margin-top: 50px;
+	width: 100%;
+	padding: 10px 0;
+	border-radius: 5px; 
+	border: none; 
+	font-size: 14px;
+	background: #360033;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.i{
+	color: #360033 ;
+	border-radius: 40px;
+	margin-top: 20px;
+	margin-left: 40%;
+	opacity: 0.4;
+
+}
+
+.plane{
+	color: #fff ;
+	opacity: 0.7;
+	padding: 1px;
+}
+
